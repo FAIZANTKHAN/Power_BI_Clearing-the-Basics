@@ -13,5 +13,4 @@ This is a foundational Power BI project created to practice and demonstrate my c
 * **Power BI Desktop:** For data modeling and visualization.
 * **Excel / CSV:** As the primary data source.
 
-## 📷 Preview
-*(Tip: Add a screenshot of your dashboard here so people can see it immediately!)*
+
